@@ -1,8 +1,6 @@
 
 # Indian Recipes RAG (Retrieval-Augmented Generation)
 
-![Project Banner](banner.png)
-
 
 This is an AI-powered **Recipe Assistant** built using **RAG (Retrieval-Augmented Generation)** on top of a dataset of **~6000 Indian recipes sourced from Kaggle**.
 
